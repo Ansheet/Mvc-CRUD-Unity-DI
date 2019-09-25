@@ -1,0 +1,14 @@
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Service\bin\Debug\UnityDIMVC.Service.dll
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Service\bin\Debug\UnityDIMVC.Service.pdb
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Service\bin\Debug\UnityDIMVC.Model.dll
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Service\bin\Debug\UnityDIMVC.Model.pdb
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Service\obj\Debug\UnityDIMVC.Service.csprojAssemblyReference.cache
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Service\obj\Debug\UnityDIMVC.Service.csproj.CoreCompileInputs.cache
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Service\obj\Debug\UnityDIMVC.Service.csproj.CopyComplete
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Service\obj\Debug\UnityDIMVC.Service.dll
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Service\obj\Debug\UnityDIMVC.Service.pdb
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Service\bin\Debug\UnityDIMVC.Repository.dll
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Service\bin\Debug\EntityFramework.dll
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Service\bin\Debug\UnityDIMVC.Repository.pdb
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Service\bin\Debug\UnityDIMVC.Repository.dll.config
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Service\bin\Debug\EntityFramework.xml

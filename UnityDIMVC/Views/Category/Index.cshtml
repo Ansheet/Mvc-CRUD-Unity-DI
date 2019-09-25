@@ -1,0 +1,55 @@
+﻿@model IEnumerable<UnityDIMVC.Model.CategoryVM>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+   
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CategoryID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CategoryName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CategoryIsActive)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CategoryIsDelete)
+        </th>
+        <th>
+            <a class="btn btn-info btn-sm" href="@Url.Action("Create","Category")">+ Create</a>
+        </th>
+    </tr>
+    @{
+        var cnt = 0;
+    }
+    @foreach (var item in Model)
+    {
+        ++cnt;
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => cnt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryIsActive)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryIsDelete)
+            </td>
+            <td>
+                @Html.Partial("_Buttons", item.CategoryID)
+            </td>
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,6 @@
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Model\bin\Debug\UnityDIMVC.Model.dll
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Model\bin\Debug\UnityDIMVC.Model.pdb
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Model\obj\Debug\UnityDIMVC.Model.csproj.CoreCompileInputs.cache
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Model\obj\Debug\UnityDIMVC.Model.dll
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Model\obj\Debug\UnityDIMVC.Model.pdb
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Model\obj\Debug\UnityDIMVC.Model.csprojAssemblyReference.cache

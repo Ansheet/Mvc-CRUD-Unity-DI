@@ -1,0 +1,14 @@
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Repository\obj\Debug\UnityDIMVC.Repository.csprojAssemblyReference.cache
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Repository\obj\Debug\UnityDIMVC.Repository.csproj.CoreCompileInputs.cache
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Repository\bin\Debug\UnityDIMVC.Repository.dll.config
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Repository\bin\Debug\UnityDIMVC.Repository.dll
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Repository\bin\Debug\UnityDIMVC.Repository.pdb
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Repository\bin\Debug\EntityFramework.dll
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Repository\bin\Debug\UnityDIMVC.Model.dll
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Repository\bin\Debug\UnityDIMVC.Model.pdb
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Repository\bin\Debug\EntityFramework.xml
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Repository\obj\Debug\UnityDIMVC.Repository.csproj.CopyComplete
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Repository\obj\Debug\UnityDIMVC.Repository.dll
+C:\Users\aps\source\repos\UnityDIMVC\UnityDIMVC.Repository\obj\Debug\UnityDIMVC.Repository.pdb
